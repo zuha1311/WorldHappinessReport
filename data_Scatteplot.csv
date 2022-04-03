@@ -1,4 +1,4 @@
-﻿Country,Happiness_Index,Normalised_GDP_Per_Capita,Normalised_Social_Support,Normalised_Healthy_Life_Expectancy,Normalised_Freedom_To_Make_Life_Choices,Normalised_Generosity,Normalised_Perceptions_Of_Corruption,Continent,,,,
+﻿Country,Happiness_Index,GDP_Per_Capita,Social_Support,Healthy_Life_Expectancy,Freedom_To_Make_Life_Choices,Generosity,Perceptions_Of_Corruption,Continent,,,,
 Finland,7.842,0.925130935,0.970498474,0.935636038,0.978350515,0.229205176,0.879341865,Europe,,,,
 Denmark,7.62,0.93869666,0.970498474,0.944732499,0.975257732,0.384473198,0.886654479,Europe,,,,
 Switzerland,7.571,0.95449472,0.958290946,0.966823906,0.94742268,0.377079482,0.755027422,Europe,,,,
