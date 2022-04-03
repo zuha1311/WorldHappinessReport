@@ -1,4 +1,4 @@
-﻿Country,Happiness (Y axis),,Normalised_GDP,Social_support,Healthy_life_expectancy,Freedom_life_choices,Generosity,Perceptions_corruption
+﻿Country,Happiness,Normalised_GDP,Social_support,Healthy_life_expectancy,Freedom_life_choices,Generosity,Perceptions_corruption
 Finland,7.842,,0.925130935,0.970498474,0.935636038,0.978350515,-0.180811808,0.879341865
 Denmark,7.62,,0.93869666,0.970498474,0.944732499,0.975257732,0.055350554,0.886654479
 Switzerland,7.571,,0.95449472,0.958290946,0.966823906,0.94742268,0.046125461,0.755027422
