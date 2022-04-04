@@ -1,113 +1,113 @@
-﻿Country,Happiness,Wealth,AvHouseholdSize
-Finland,7.821,1892,2.07
-Switzerland,7.512,2026,2.21
-Netherlands,7.415,1945,2.23
-Norway,7.365,1997,2.22
-Sweden,7.384,1920,2.17
-Luxembourg,7.404,2209,2.41
-New Zealand,7.2,1852,2.67
-Austria,7.163,1931,2.27
-Australia,7.162,1900,2.5
-Israel,7.364,1826,3.14
-Germany,7.034,1924,2.05
-Canada,7.025,1886,2.45
-Ireland,7.041,2129,2.77
-Costa Rica,6.582,1584,3.46
-United Kingdom,6.943,1867,2.27
-Czech Republic,6.92,1815,2.4
-United States,6.977,1982,2.49
-Belgium,6.805,1907,2.36
-France,6.687,1863,2.22
-Malta,6.447,1838,2.85
-Spain,6.476,1808,2.69
-Italy,6.467,1834,2.4
-Slovenia,6.63,1810,2.47
-Uruguay,6.474,1615,2.78
-Singapore,6.48,2149,3.29
-Slovakia,6.391,1736,2.8
-Brazil,6.293,1462,3.31
-Mexico,6.128,1552,3.74
-Jamaica,5.85,1296,3.06
-Lithuania,6.446,1804,2.32
-Cyprus,6.221,1815,2.75
-Estonia,6.341,1793,2.3
-Panama,6.309,1715,3.67
-Uzbekistan,6.063,1219,5.24
-Chile,6.172,1651,3.58
-Poland,6.123,1758,2.81
-Kazakhstan,6.234,1668,3.5
-Romania,6.477,1719,2.88
-Serbia,6.178,1550,2.88
-El Salvador,6.12,1265,4.07
-Mauritius,6.071,1591,3.48
-Latvia,6.18,1732,2.58
-Colombia,5.781,1452,3.53
-Hungary,6.086,1748,2.6
-Thailand,5.891,1535,3.69
-Nicaragua,6.165,1105,4.92
-Japan,6.039,1835,2.26
-Argentina,5.967,1592,3.26
-Portugal,6.016,1760,2.66
-Honduras,6.022,1111,4.47
-Croatia,6.125,1705,2.8
-Philippines,5.904,1268,4.23
-South Korea,5.935,1851,2.53
-Peru,5.559,1397,3.75
-Moldova,5.857,1417,2.89
-Ecuador,5.533,1352,3.78
-Kyrgyzstan,5.828,1069,4.21
-Greece,5.948,1703,2.44
-Bolivia,5.6,1256,3.53
-Mongolia,5.761,1393,4.32
-Paraguay,5.578,1409,4.63
-Montenegro,5.547,1573,3.21
-Dominican Republic,5.737,1538,3.48
-Belarus,5.821,1562,2.48
-Russia,5.459,1685,2.58
-Hong Kong S.A.R. of China,5.425,1957,2.83
-Tajikistan,5.377,966,6.27
-Vietnam,5.485,1252,3.78
-Malaysia,5.711,1689,4.56
-Indonesia,5.24,1382,3.86
-China,5.585,1508,2.7
-Ivory Coast,5.235,1094,5.09
-Armenia,5.399,1434,3.54
-Bulgaria,5.371,1625,2.34
-Cameroon,5.048,968,4.99
-Senegal,5.046,933,8.66
-Albania,5.199,1439,3.3
-Ghana,4.872,1112,3.49
-Nigeria,4.552,1079,4.9
-Benin,4.623,932,5.19
-Laos,5.14,1239,5.77
-Bangladesh,5.155,1060,4.47
-Guinea,4.891,848,6.25
-South Africa,5.194,1425,3.36
-Turkey,4.744,1707,4.07
-Pakistan,4.516,1049,6.8
-Morocco,5.06,1208,5.24
-Venezuela,4.925,985,4.33
-Georgia,4.973,1467,3.34
-Ukraine,5.084,1411,2.46
-Iraq,4.941,1289,7.7
-Gabon,4.958,1459,4.1
-Burkina Faso,4.67,779,5.92
-Cambodia,4.64,1019,4.61
-Mozambique,5.048,578,4.37
-Nigeria,4.552,1079,4.9
-Mali,4.479,792,5.81
-Iran,4.888,1410,3.49
-Uganda,4.603,777,4.53
-Kenya,4.543,1032,3.64
-Namibia,4.459,1292,4.24
-Myanmar,4.394,1038,4.22
-Jordan,4.152,1324,4.72
-Egypt,4.288,1388,4.13
-Ethiopia,4.241,788,4.61
-Togo,4.112,771,4.55
-Zambia,3.76,930,5.13
-Sierra Leone,3.574,686,5.9
-India,3.777,1167,4.57
-Tanzania,3.702,848,4.85
-Malawi,3.75,648,4.51
-Zimbabwe,2.995,947,4.08
+﻿Country,Continent ,Happiness,Wealth,AvHouseholdSize,,,,
+Finland,Europe,7.821,1892,2.07,,,,
+Switzerland,Europe,7.512,2026,2.21,,,,
+Netherlands,Europe,7.415,1945,2.23,,,,
+Norway,Europe,7.365,1997,2.22,,,,
+Sweden,Europe,7.384,1920,2.17,,,,
+Luxembourg,Europe,7.404,2209,2.41,,,,
+New Zealand,Oceania ,7.2,1852,2.67,,,,
+Austria,Europe,7.163,1931,2.27,,,,
+Australia,Oceania ,7.162,1900,2.5,,,,
+Israel,Middle East,7.364,1826,3.14,,,,
+Germany,Europe,7.034,1924,2.05,,,,
+Canada,North America,7.025,1886,2.45,,,,
+Ireland,Europe,7.041,2129,2.77,,,,
+Costa Rica,Europe,6.582,1584,3.46,,,,
+United Kingdom,Europe,6.943,1867,2.27,,,,
+Czech Republic,Europe,6.92,1815,2.4,,,,
+United States,North America,6.977,1982,2.49,,,,
+Belgium,Europe,6.805,1907,2.36,,,,
+France,Europe,6.687,1863,2.22,,,,
+Malta,Europe,6.447,1838,2.85,,,,
+Spain,Europe,6.476,1808,2.69,,,,
+Italy,Europe,6.467,1834,2.4,,,,
+Slovenia,Europe,6.63,1810,2.47,,,,
+Uruguay,South America,6.474,1615,2.78,,,,
+Singapore,Asia,6.48,2149,3.29,,,,
+Slovakia,Europe,6.391,1736,2.8,,,,
+Brazil,South America,6.293,1462,3.31,,,,
+Mexico,South America,6.128,1552,3.74,,,,
+Jamaica,South America,5.85,1296,3.06,,,,
+Lithuania,Europe,6.446,1804,2.32,,,,
+Cyprus,Europe,6.221,1815,2.75,,,,
+Estonia,Europe,6.341,1793,2.3,,,,
+Panama,South America,6.309,1715,3.67,,,,
+Uzbekistan,Europe,6.063,1219,5.24,,,,
+Chile,South America,6.172,1651,3.58,,,,
+Poland,Europe,6.123,1758,2.81,,,,
+Kazakhstan,Europe,6.234,1668,3.5,,,,
+Romania,Europe,6.477,1719,2.88,,,,
+Serbia,Europe,6.178,1550,2.88,,,,
+El Salvador,South America,6.12,1265,4.07,,,,
+Mauritius,Africa,6.071,1591,3.48,,,,
+Latvia,Europe,6.18,1732,2.58,,,,
+Colombia,South America,5.781,1452,3.53,,,,
+Hungary,Europe,6.086,1748,2.6,,,,
+Thailand,Asia,5.891,1535,3.69,,,,
+Nicaragua,South America,6.165,1105,4.92,,,,
+Japan,Asia,6.039,1835,2.26,,,,
+Argentina,South America,5.967,1592,3.26,,,,
+Portugal,Europe,6.016,1760,2.66,,,,
+Honduras,South America,6.022,1111,4.47,,,,
+Croatia,Europe,6.125,1705,2.8,,,,
+Philippines,Asia,5.904,1268,4.23,,,,
+South Korea,Asia,5.935,1851,2.53,,,,
+Peru,South America,5.559,1397,3.75,,,,
+Moldova,Europe,5.857,1417,2.89,,,,
+Ecuador,South America,5.533,1352,3.78,,,,
+Kyrgyzstan,Europe,5.828,1069,4.21,,,,
+Greece,Europe,5.948,1703,2.44,,,,
+Bolivia,South America,5.6,1256,3.53,,,,
+Mongolia,Asia,5.761,1393,4.32,,,,
+Paraguay,South America,5.578,1409,4.63,,,,
+Montenegro,Europe,5.547,1573,3.21,,,,
+Dominican Republic,South America,5.737,1538,3.48,,,,
+Belarus,Europe,5.821,1562,2.48,,,,
+Russia,Europe,5.459,1685,2.58,,,,
+Hong Kong S.A.R. of China,Asia,5.425,1957,2.83,,,,
+Tajikistan,Europe,5.377,966,6.27,,,,
+Vietnam,Asia,5.485,1252,3.78,,,,
+Malaysia,Asia,5.711,1689,4.56,,,,
+Indonesia,Asia,5.24,1382,3.86,,,,
+China,Asia,5.585,1508,2.7,,,,
+Ivory Coast,Africa,5.235,1094,5.09,,,,
+Armenia,Europe,5.399,1434,3.54,,,,
+Bulgaria,Europe,5.371,1625,2.34,,,,
+Cameroon,Africa,5.048,968,4.99,,,,
+Senegal,Africa,5.046,933,8.66,,,,
+Albania,Europe,5.199,1439,3.3,,,,
+Ghana,Africa,4.872,1112,3.49,,,,
+Nigeria,Africa,4.552,1079,4.9,,,,
+Benin,Africa,4.623,932,5.19,,,,
+Laos,Asia,5.14,1239,5.77,,,,
+Bangladesh,Asia,5.155,1060,4.47,,,,
+Guinea,Africa,4.891,848,6.25,,,,
+South Africa,Africa,5.194,1425,3.36,,,,
+Turkey,Europe,4.744,1707,4.07,,,,
+Pakistan,Asia,4.516,1049,6.8,,,,
+Morocco,Africa,5.06,1208,5.24,,,,
+Venezuela,South America,4.925,985,4.33,,,,
+Georgia,Europe,4.973,1467,3.34,,,,
+Ukraine,Europe,5.084,1411,2.46,,,,
+Iraq,Middle East,4.941,1289,7.7,,,,
+Gabon,Africa,4.958,1459,4.1,,,,
+Burkina Faso,Asia,4.67,779,5.92,,,,
+Cambodia,Asia,4.64,1019,4.61,,,,
+Mozambique,Africa,5.048,578,4.37,,,,
+Nigeria,Africa,4.552,1079,4.9,,,,
+Mali,Africa,4.479,792,5.81,,,,
+Iran,Middle East,4.888,1410,3.49,,,,
+Uganda,Africa,4.603,777,4.53,,,,
+Kenya,Africa,4.543,1032,3.64,,,,
+Namibia,Africa,4.459,1292,4.24,,,,
+Myanmar,Asia,4.394,1038,4.22,,,,
+Jordan,Middle East,4.152,1324,4.72,,,,
+Egypt,Africa,4.288,1388,4.13,,,,
+Ethiopia,Africa,4.241,788,4.61,,,,
+Togo,Africa,4.112,771,4.55,,,,
+Zambia,Africa,3.76,930,5.13,,,,
+Sierra Leone,Africa,3.574,686,5.9,,,,
+India,Asia,3.777,1167,4.57,,,,
+Tanzania,Africa,3.702,848,4.85,,,,
+Malawi,Africa,3.75,648,4.51,,,,
+Zimbabwe,Africa,2.995,947,4.08,,,,
